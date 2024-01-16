@@ -28,6 +28,7 @@ def iniciar():
         elif opcion == '5':
             eliminar_contacto()
         elif opcion == '6':
+            print('Agradecemos su estancia, eperamos verle de nuevo...')
             break
 
 def nuevo_contacto():
